@@ -1,5 +1,17 @@
 {
-	"latest_major": "4",
-	"latest_minor": "4",
-	"latest_micro": "0",
+	"GUI": [{
+		"latest_major": "4",
+		"latest_minor": "4",
+		"latest_micro": "0",
+		"gui_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
+	}],
+	"NAND_side": [{
+		"nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader - TWLNAND side.cia?raw=true"
+	}],
+	"nds-bootstrap": [{
+		"release": "Release v0.4.1",
+		"unofficial": "Unofficial 56746a3",
+		"release_url": "https://github.com/Jolty95/TWLoader-update/blob/master/release-bootstrap.nds?raw=true",
+		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds?raw=true"
+	}]
 }
