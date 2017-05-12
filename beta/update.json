@@ -1,53 +1,53 @@
 {
     "GUI": {
         "latest_major": "4",
-        "latest_minor": "4",
-        "latest_micro": "0",
+        "latest_minor": "3",
+        "latest_micro": "1",
         "gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
     },
     "NAND_side": {
         "not_update_version": {
             "not_major": "4",
-            "not_minor": "1",
-            "not_micro": "0"
+            "not_minor": "3",
+            "not_micro": "1"
         },
         "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader - TWLNAND side.cia?raw=true"
     },
     "prebuilds": {
         "ace_rpg": {
             "ace_rpg_major": "4",
-            "ace_rpg_minor": "1",
-            "ace_rpg_micro": "0",
+            "ace_rpg_minor": "3",
+            "ace_rpg_micro": "1",
             "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/ace_rpg.nds?raw=true"
         },
         "GBARunner2": {
             "GBARunner2_major": "4",
-            "GBARunner2_minor": "1",
-            "GBARunner2_micro": "0",
+            "GBARunner2_minor": "3",
+            "GBARunner2_micro": "1",
             "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/GBARunner2.nds?raw=true"
         },
         "loadcard_dstt": {
             "loadcard_dstt_major": "4",
-            "loadcard_dstt_minor": "1",
-            "loadcard_dstt_micro": "0",
+            "loadcard_dstt_minor": "3",
+            "loadcard_dstt_micro": "1",
             "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/loadcard_dstt.nds?raw=true"
         },
         "r4": {
             "r4_major": "4",
-            "r4_minor": "1",
-            "r4_micro": "0",
+            "r4_minor": "3",
+            "r4_micro": "1",
             "r4_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4.nds?raw=true"
         },
         "r4idsn": {
             "r4idsn_major": "4",
-            "r4idsn_minor": "1",
-            "r4idsn_micro": "0",
+            "r4idsn_minor": "3",
+            "r4idsn_micro": "1",
             "r4idsn_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4idsn.nds?raw=true"
         }
     },
     "nds-bootstrap": {
-        "release": "Release v0.4.1",
-        "unofficial": "Unofficial 56746a3",
+        "release_ver": "Release v0.4.1",
+        "unofficial_ver": "Unofficial 56746a3",
         "release_url": "https://github.com/Jolty95/TWLoader-update/blob/master/release-bootstrap.nds?raw=true",
         "unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds?raw=true"
     }
