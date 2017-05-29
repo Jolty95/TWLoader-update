@@ -6,9 +6,9 @@
         "gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
     },
     "NAND_side": {
-        "not_major": "9",
-        "not_minor": "9",
-        "not_micro": "9",
+        "not_major": "4",
+        "not_minor": "0",
+        "not_micro": "0",
         "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader - TWLNAND side.cia?raw=true"
     },
     "prebuilds": {
@@ -35,12 +35,6 @@
             "r4_minor": "3",
             "r4_micro": "1",
             "r4_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4.nds?raw=true"
-        },
-        "r4idsn": {
-            "r4idsn_major": "4",
-            "r4idsn_minor": "3",
-            "r4idsn_micro": "1",
-            "r4idsn_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4idsn.nds?raw=true"
         }
     },
     "nds-bootstrap": {
