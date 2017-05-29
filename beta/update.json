@@ -7,8 +7,8 @@
     },
     "NAND_side": {
         "not_major": "4",
-        "not_minor": "0",
-        "not_micro": "0",
+        "not_minor": "3",
+        "not_micro": "1",
         "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader - TWLNAND side.cia?raw=true"
     },
     "prebuilds": {
