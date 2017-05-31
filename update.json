@@ -11,6 +11,12 @@
         "not_micro": "0",
         "nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side.cia"
     },
+    "NAND_side_STG2": {
+        "not_major": "5",
+        "not_minor": "0",
+        "not_micro": "0",
+        "nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLD.twldr"
+    },
     "prebuilds": {
         "ace_rpg": {
             "ace_rpg_major": "5",
