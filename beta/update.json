@@ -6,7 +6,7 @@
         "gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
     },
     "NAND_side": {
-        "not_major": "5",
+        "not_major": "1",
         "not_minor": "0",
         "not_micro": "0",
         "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader%20-%20TWLNAND%20side.cia?raw=true"
