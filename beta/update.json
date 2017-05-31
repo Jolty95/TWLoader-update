@@ -19,19 +19,19 @@
             "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
         },
         "GBARunner2": {
-            "GBARunner2_major": "4",
-            "GBARunner2_minor": "3",
-            "GBARunner2_micro": "1",
+            "GBARunner2_major": "5",
+            "GBARunner2_minor": "0",
+            "GBARunner2_micro": "0",
             "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
         },
         "loadcard_dstt": {
-            "loadcard_dstt_major": "1",
+            "loadcard_dstt_major": "5",
             "loadcard_dstt_minor": "0",
             "loadcard_dstt_micro": "0",
             "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/loadcard_dstt.nds"
         },
         "r4": {
-            "r4_major": "1",
+            "r4_major": "5",
             "r4_minor": "0",
             "r4_micro": "0",
             "r4_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/r4.nds"
