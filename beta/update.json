@@ -19,9 +19,9 @@
             "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
         },
         "GBARunner2": {
-            "GBARunner2_major": "1",
-            "GBARunner2_minor": "0",
-            "GBARunner2_micro": "0",
+            "GBARunner2_major": "4",
+            "GBARunner2_minor": "3",
+            "GBARunner2_micro": "1",
             "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
         },
         "loadcard_dstt": {
