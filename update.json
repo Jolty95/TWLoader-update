@@ -1,48 +1,40 @@
 {
     "GUI": {
-        "latest_major": "4",
-        "latest_minor": "3",
-        "latest_micro": "1",
+        "latest_major": "5",
+        "latest_minor": "0",
+        "latest_micro": "0",
         "gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
     },
     "NAND_side": {
-        "not_update_version": {
-            "not_major": "4",
-            "not_minor": "3",
-            "not_micro": "1"
-        },
-        "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader - TWLNAND side.cia?raw=true"
+        "not_major": "5",
+        "not_minor": "0",
+        "not_micro": "0",
+        "nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side.cia"
     },
     "prebuilds": {
         "ace_rpg": {
-            "ace_rpg_major": "4",
-            "ace_rpg_minor": "3",
-            "ace_rpg_micro": "1",
-            "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/ace_rpg.nds?raw=true"
+            "ace_rpg_major": "5",
+            "ace_rpg_minor": "0",
+            "ace_rpg_micro": "0",
+            "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
         },
         "GBARunner2": {
-            "GBARunner2_major": "4",
-            "GBARunner2_minor": "3",
-            "GBARunner2_micro": "1",
-            "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/GBARunner2.nds?raw=true"
+            "GBARunner2_major": "5",
+            "GBARunner2_minor": "0",
+            "GBARunner2_micro": "0",
+            "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
         },
         "loadcard_dstt": {
-            "loadcard_dstt_major": "4",
-            "loadcard_dstt_minor": "3",
-            "loadcard_dstt_micro": "1",
-            "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/loadcard_dstt.nds?raw=true"
+            "loadcard_dstt_major": "5",
+            "loadcard_dstt_minor": "0",
+            "loadcard_dstt_micro": "0",
+            "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/loadcard_dstt.nds"
         },
         "r4": {
-            "r4_major": "4",
-            "r4_minor": "3",
-            "r4_micro": "1",
-            "r4_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4.nds?raw=true"
-        },
-        "r4idsn": {
-            "r4idsn_major": "4",
-            "r4idsn_minor": "3",
-            "r4idsn_micro": "1",
-            "r4idsn_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4idsn.nds?raw=true"
+            "r4_major": "5",
+            "r4_minor": "0",
+            "r4_micro": "0",
+            "r4_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/r4.nds"
         }
     },
     "nds-bootstrap": {
