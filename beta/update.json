@@ -9,32 +9,32 @@
         "not_major": "5",
         "not_minor": "0",
         "not_micro": "0",
-        "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader - TWLNAND side.cia?raw=true"
+        "nand_url:": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader%20-%20TWLNAND%20side.cia?raw=true"
     },
     "prebuilds": {
         "ace_rpg": {
             "ace_rpg_major": "5",
             "ace_rpg_minor": "0",
             "ace_rpg_micro": "0",
-            "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/ace_rpg.nds?raw=true"
+            "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
         },
         "GBARunner2": {
             "GBARunner2_major": "1",
             "GBARunner2_minor": "0",
             "GBARunner2_micro": "0",
-            "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/GBARunner2.nds?raw=true"
+            "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
         },
         "loadcard_dstt": {
             "loadcard_dstt_major": "1",
             "loadcard_dstt_minor": "0",
             "loadcard_dstt_micro": "0",
-            "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/loadcard_dstt.nds?raw=true"
+            "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/loadcard_dstt.nds"
         },
         "r4": {
             "r4_major": "1",
             "r4_minor": "0",
             "r4_micro": "0",
-            "r4_url": "https://github.com/Jolty95/TWLoader-update/blob/master/prebuilts/r4.nds?raw=true"
+            "r4_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/r4.nds"
         }
     },
     "nds-bootstrap": {
