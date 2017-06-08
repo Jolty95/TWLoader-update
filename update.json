@@ -2,7 +2,7 @@
     "GUI": {
         "latest_major": "5",
         "latest_minor": "0",
-        "latest_micro": "0",
+        "latest_micro": "1",
         "gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
     },
     "NAND_side": {
