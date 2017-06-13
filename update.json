@@ -1,7 +1,7 @@
 {
 	"GUI": {
 		"latest_major": "5",
-		"latest_minor": "1",
+		"latest_minor": "2",
 		"latest_micro": "0",
 		"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true",
 		"gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.3dsx?raw=true",
@@ -19,7 +19,7 @@
 		},
 		"part2": {
 			"p2_not_major": "5",
-			"p2_not_minor": "1",
+			"p2_not_minor": "2",
 			"p2_not_micro": "0",
 			"nand_part2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side%20(part%202).cia",
 			"part2_null": "0"
