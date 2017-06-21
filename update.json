@@ -63,8 +63,8 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.4.1",
-		"unofficial_ver": "Unofficial 1c7d950",
+		"release_ver": "Release v0.4.2",
+		"unofficial_ver": "Unofficial d960cc6",
 		"release_url": "https://github.com/Jolty95/TWLoader-update/blob/master/release-bootstrap.nds?raw=true",
 		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds?raw=true",
 		"bootstrap_null": "0"
