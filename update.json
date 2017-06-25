@@ -2,7 +2,7 @@
 	"GUI": {
 		"latest_major": "5",
 		"latest_minor": "4",
-		"latest_micro": "1",
+		"latest_micro": "2",
 		"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true",
 		"gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.3dsx?raw=true",
 		"gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.smdh?raw=true",
