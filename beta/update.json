@@ -1,46 +1,64 @@
 {
-    "GUI": {
-        "latest_major": "5",
-        "latest_minor": "0",
-        "latest_micro": "0",
-        "gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
-    },
-    "NAND_side": {
-        "not_major": "5",
-        "not_minor": "0",
-        "not_micro": "0",
-        "nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side.cia"
-    },
-    "prebuilds": {
-        "ace_rpg": {
-            "ace_rpg_major": "5",
-            "ace_rpg_minor": "0",
-            "ace_rpg_micro": "0",
-            "ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
-        },
-        "GBARunner2": {
-            "GBARunner2_major": "5",
-            "GBARunner2_minor": "0",
-            "GBARunner2_micro": "0",
-            "GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
-        },
-        "loadcard_dstt": {
-            "loadcard_dstt_major": "5",
-            "loadcard_dstt_minor": "0",
-            "loadcard_dstt_micro": "0",
-            "loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/loadcard_dstt.nds"
-        },
-        "r4": {
-            "r4_major": "5",
-            "r4_minor": "0",
-            "r4_micro": "0",
-            "r4_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/r4.nds"
-        }
-    },
-    "nds-bootstrap": {
-        "release_ver": "Release v0.4.1",
-        "unofficial_ver": "Unofficial 1c7d950",
-        "release_url": "https://github.com/Jolty95/TWLoader-update/blob/master/release-bootstrap.nds?raw=true",
-        "unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds?raw=true"
-    }
+	"GUI": {
+		"latest_major": "5",
+		"latest_minor": "4",
+		"latest_micro": "2",
+		"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true",
+		"gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.3dsx?raw=true",
+		"gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.smdh?raw=true",
+		"demo_gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.3dsx?raw=true",
+		"demo_gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.smdh?raw=true"
+	},
+	"NAND_side": {
+		"part1": {
+			"not_major": "5",
+			"not_minor": "0",
+			"not_micro": "0",
+			"nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side.cia"
+		},
+		"part2": {
+			"p2_not_major": "5",
+			"p2_not_minor": "2",
+			"p2_not_micro": "0",
+			"nand_part2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side%20(part%202).cia"
+		},
+		"TWLD": {
+			"twld_not_major": "5",
+			"twld_not_minor": "1",
+			"twld_not_micro": "0",
+			"nand_twld_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLD.twldr"
+		}
+	},
+	"prebuilds": {
+		"ace_rpg": {
+			"ace_rpg_major": "5",
+			"ace_rpg_minor": "0",
+			"ace_rpg_micro": "0",
+			"ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
+		},
+		"GBARunner2": {
+			"GBARunner2_major": "5",
+			"GBARunner2_minor": "0",
+			"GBARunner2_micro": "0",
+			"GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
+		},
+		"loadcard_dstt": {
+			"loadcard_dstt_major": "5",
+			"loadcard_dstt_minor": "0",
+			"loadcard_dstt_micro": "0",
+			"loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/loadcard_dstt.nds"
+		},
+		"r4": {
+			"r4_major": "5",
+			"r4_minor": "0",
+			"r4_micro": "0",
+			"r4_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/r4.nds"
+		}
+	},
+	"nds-bootstrap": {
+		"release_ver": "Release v0.4.3",
+		"unofficial_ver": "Unofficial 7c2e889",
+		"release_url": "https://github.com/Jolty95/TWLoader-update/blob/master/release-bootstrap.nds?raw=true",
+		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds?raw=true"
+	}
 }
