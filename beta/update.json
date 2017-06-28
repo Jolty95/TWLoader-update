@@ -1,13 +1,17 @@
 {
 	"GUI": {
-		"latest_major": "5",
-		"latest_minor": "4",
-		"latest_micro": "2",
-		"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true",
-		"gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.3dsx?raw=true",
-		"gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.smdh?raw=true",
-		"demo_gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.3dsx?raw=true",
-		"demo_gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.smdh?raw=true"
+		"gui_cia": {		
+			"latest_major": "5",
+			"latest_minor": "4",
+			"latest_micro": "2",
+			"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
+		},
+		"gui_3dsx": {
+			"gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.3dsx?raw=true",
+			"gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.smdh?raw=true",
+			"demo_gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.3dsx?raw=true",
+			"demo_gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.smdh?raw=true"
+		}
 	},
 	"NAND_side": {
 		"part1": {
