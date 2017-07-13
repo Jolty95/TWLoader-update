@@ -63,6 +63,6 @@
 		"release_ver": "Pre-release v0.5.0",
 		"unofficial_ver": "Unofficial 9a073cf",
 		"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
-		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds"
+		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
 	}
 }
