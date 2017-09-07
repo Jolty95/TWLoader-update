@@ -61,7 +61,7 @@
 	},
 	"nds-bootstrap": {
 		"release_ver": "Release v0.6.0     ",
-		"unofficial_ver": "Unofficial c4025ca ",
+		"unofficial_ver": "Unofficial a28b779 ",
 		"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
 		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
 	}
