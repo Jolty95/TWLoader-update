@@ -60,8 +60,8 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.6.1     ",
-		"unofficial_ver": "Unofficial 363c4a7 ",
+		"release_ver": "Release v0.6.1-rev1",
+		"unofficial_ver": "Unofficial b842181 ",
 		"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
 		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
 	}
