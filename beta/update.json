@@ -1,9 +1,9 @@
 {
 	"GUI": {
 		"gui_cia": {		
-			"latest_major": "5",
-			"latest_minor": "4",
-			"latest_micro": "2",
+			"latest_major": "6",
+			"latest_minor": "3",
+			"latest_micro": "0",
 			"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
 		},
 		"gui_3dsx": {
@@ -21,14 +21,14 @@
 			"nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side.cia"
 		},
 		"part2": {
-			"p2_not_major": "5",
-			"p2_not_minor": "2",
+			"p2_not_major": "6",
+			"p2_not_minor": "0",
 			"p2_not_micro": "0",
 			"nand_part2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side%20(part%202).cia"
 		},
 		"TWLD": {
-			"twld_not_major": "5",
-			"twld_not_minor": "1",
+			"twld_not_major": "6",
+			"twld_not_minor": "0",
 			"twld_not_micro": "0",
 			"nand_twld_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLD.twldr"
 		}
@@ -60,9 +60,17 @@
 		}
 	},
 	"nds-bootstrap": {
-		"release_ver": "Release v0.4.3",
-		"unofficial_ver": "Unofficial 7c2e889",
-		"release_url": "https://github.com/Jolty95/TWLoader-update/blob/master/release-bootstrap.nds?raw=true",
-		"unofficial_url": "https://github.com/Jolty95/TWLoader-update/blob/master/unofficial-bootstrap.nds?raw=true"
+		"sdk1-4": {
+			"release_ver": "Release v0.6.1-rev2",
+			"unofficial_ver": "Unofficial 20258a9 ",
+			"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
+			"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
+		},
+		"sdk5": {
+			"sdk5-release_ver": "Release v?.?.?     ",
+			"sdk5-unofficial_ver": "Unofficial 79ba80a ",
+			"sdk5-release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap-sdk5.nds",
+			"sdk5-unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap-sdk5.nds"
+		}
 	}
 }
