@@ -62,13 +62,13 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.6.1-rev2",
-			"unofficial_ver": "Unofficial 20258a9 ",
+			"unofficial_ver": "Unofficial 074a5ea ",
 			"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
 			"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
 		},
 		"sdk5": {
 			"sdk5-release_ver": "No version available",
-			"sdk5-unofficial_ver": "Unofficial 79ba80a  ",
+			"sdk5-unofficial_ver": "Unofficial 3f1c517  ",
 			"sdk5-release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap-sdk5.nds",
 			"sdk5-unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap-sdk5.nds"
 		}
