@@ -62,7 +62,7 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.6.2     ",
-			"unofficial_ver": "Unofficial 074a5ea ",
+			"unofficial_ver": "Unofficial f9a7e1d ",
 			"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
 			"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
 		},
