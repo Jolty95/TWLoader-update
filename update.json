@@ -2,8 +2,8 @@
 	"GUI": {
 		"gui_cia": {		
 			"latest_major": "6",
-			"latest_minor": "4",
-			"latest_micro": "2",
+			"latest_minor": "5",
+			"latest_micro": "0",
 			"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
 		},
 		"gui_3dsx": {
