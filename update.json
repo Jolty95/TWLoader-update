@@ -68,7 +68,7 @@
 		},
 		"sdk5": {
 			"sdk5-release_ver": "Release v0.7.1      ",
-			"sdk5-unofficial_ver": "Unofficial eea0a0a  ",
+			"sdk5-unofficial_ver": "Unofficial 48cc51e  ",
 			"sdk5-release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap-sdk5.nds",
 			"sdk5-unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap-sdk5.nds"
 		}
