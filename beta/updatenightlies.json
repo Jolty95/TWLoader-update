@@ -1,7 +1,7 @@
 {
     "nightlies": {
         "commit": "a7c8e24bed3231d7d520c00bf77d1b2d63a3053e",
-        "nighty_url": "https://github.com/Jolty95/TWLoader-update/raw/master/beta/TWLoader-beta.cia?raw=true",
-        "zip_url": "https://github.com/Jolty95/TWLoader-update/blob/master/beta/TWLoader.zip?raw=true"
+        "nighty_url": "http://cdn.kaeru.world/TWLoader-update/beta/TWLoader-beta.cia",
+        "zip_url": "http://cdn.kaeru.world/TWLoader-update/beta/TWLoader.zip"
     }
 }
