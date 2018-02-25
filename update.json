@@ -4,13 +4,13 @@
 			"latest_major": "6",
 			"latest_minor": "5",
 			"latest_micro": "0",
-			"gui_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.cia?raw=true"
+			"gui_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader.cia"
 		},
 		"gui_3dsx": {
-			"gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.3dsx?raw=true",
-			"gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader.smdh?raw=true",
-			"demo_gui_3dsx_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.3dsx?raw=true",
-			"demo_gui_smdh_url": "https://github.com/Jolty95/TWLoader-update/blob/master/TWLoader_demo.smdh?raw=true"
+			"gui_3dsx_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader.3dsx",
+			"gui_smdh_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader.smdh",
+			"demo_gui_3dsx_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader_demo.3dsx",
+			"demo_gui_smdh_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader_demo.smdh"
 		}
 	},
 	"NAND_side": {
@@ -18,19 +18,19 @@
 			"not_major": "5",
 			"not_minor": "0",
 			"not_micro": "0",
-			"nand_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side.cia"
+			"nand_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader%20-%20TWLNAND%20side.cia"
 		},
 		"part2": {
 			"p2_not_major": "6",
 			"p2_not_minor": "0",
 			"p2_not_micro": "0",
-			"nand_part2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLoader%20-%20TWLNAND%20side%20(part%202).cia"
+			"nand_part2_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader%20-%20TWLNAND%20side%20(part%202).cia"
 		},
 		"TWLD": {
 			"twld_not_major": "6",
 			"twld_not_minor": "0",
 			"twld_not_micro": "0",
-			"nand_twld_url": "https://github.com/Jolty95/TWLoader-update/raw/master/TWLD.twldr"
+			"nand_twld_url": "http://cdn.kaeru.world/TWLoader-update/TWLD.twldr"
 		}
 	},
 	"prebuilds": {
@@ -38,39 +38,39 @@
 			"ace_rpg_major": "5",
 			"ace_rpg_minor": "0",
 			"ace_rpg_micro": "0",
-			"ace_rpg_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/ace_rpg.nds"
+			"ace_rpg_url": "http://cdn.kaeru.world/TWLoader-update/prebuilts/ace_rpg.nds"
 		},
 		"GBARunner2": {
 			"GBARunner2_major": "5",
 			"GBARunner2_minor": "0",
 			"GBARunner2_micro": "0",
-			"GBARunner2_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/GBARunner2.nds"
+			"GBARunner2_url": "http://cdn.kaeru.world/TWLoader-update/prebuilts/GBARunner2.nds"
 		},
 		"loadcard_dstt": {
 			"loadcard_dstt_major": "5",
 			"loadcard_dstt_minor": "0",
 			"loadcard_dstt_micro": "0",
-			"loadcard_dstt_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/loadcard_dstt.nds"
+			"loadcard_dstt_url": "http://cdn.kaeru.world/TWLoader-update/prebuilts/loadcard_dstt.nds"
 		},
 		"r4": {
 			"r4_major": "5",
 			"r4_minor": "0",
 			"r4_micro": "0",
-			"r4_url": "https://github.com/Jolty95/TWLoader-update/raw/master/prebuilts/r4.nds"
+			"r4_url": "http://cdn.kaeru.world/TWLoader-update/prebuilts/r4.nds"
 		}
 	},
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.6.2     ",
 			"unofficial_ver": "Unofficial 1bc3166 ",
-			"release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap.nds",
-			"unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap.nds"
+			"release_url": "http://cdn.kaeru.world/TWLoader-update/release-bootstrap.nds",
+			"unofficial_url": "http://cdn.kaeru.world/TWLoader-update/unofficial-bootstrap.nds"
 		},
 		"sdk5": {
 			"sdk5-release_ver": "Release v0.7.1      ",
 			"sdk5-unofficial_ver": "Unofficial 538b80d  ",
-			"sdk5-release_url": "https://github.com/Jolty95/TWLoader-update/raw/master/release-bootstrap-sdk5.nds",
-			"sdk5-unofficial_url": "https://github.com/Jolty95/TWLoader-update/raw/master/unofficial-bootstrap-sdk5.nds"
+			"sdk5-release_url": "http://cdn.kaeru.world/TWLoader-update/release-bootstrap-sdk5.nds",
+			"sdk5-unofficial_url": "http://cdn.kaeru.world/TWLoader-update/unofficial-bootstrap-sdk5.nds"
 		}
 	}
 }
