@@ -3,7 +3,7 @@
 		"gui_cia": {		
 			"latest_major": "6",
 			"latest_minor": "6",
-			"latest_micro": "1",
+			"latest_micro": "2",
 			"gui_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader.cia"
 		},
 		"gui_3dsx": {
@@ -62,7 +62,7 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.7.2     ",
-			"unofficial_ver": "Unofficial 08a1a08 ",
+			"unofficial_ver": "Unofficial 3239ac5 ",
 			"release_url": "http://cdn.kaeru.world/TWLoader-update/release-bootstrap.nds",
 			"unofficial_url": "http://cdn.kaeru.world/TWLoader-update/unofficial-bootstrap.nds"
 		},
