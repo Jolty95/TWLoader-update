@@ -61,13 +61,13 @@
 	},
 	"nds-bootstrap": {
 		"sdk1-4": {
-			"release_ver": "Release v0.7.4     ",
+			"release_ver": "Release v0.8.0     ",
 			"unofficial_ver": "Unofficial 7930f6b ",
 			"release_url": "http://cdn.kaeru.world/TWLoader-update/release-bootstrap.nds",
 			"unofficial_url": "http://cdn.kaeru.world/TWLoader-update/unofficial-bootstrap.nds"
 		},
 		"sdk5": {
-			"sdk5-release_ver": "Release v0.7.4      ",
+			"sdk5-release_ver": "Release v0.8.0      ",
 			"sdk5-unofficial_ver": "Unofficial 75ee83a  ",
 			"sdk5-release_url": "http://cdn.kaeru.world/TWLoader-update/release-bootstrap-sdk5.nds",
 			"sdk5-unofficial_url": "http://cdn.kaeru.world/TWLoader-update/unofficial-bootstrap-sdk5.nds"
