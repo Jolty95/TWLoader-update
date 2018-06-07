@@ -62,7 +62,7 @@
 	"nds-bootstrap": {
 		"sdk1-4": {
 			"release_ver": "Release v0.8.0     ",
-			"unofficial_ver": "Unofficial b6f9ab8 ",
+			"unofficial_ver": "Unofficial 88fc587 ",
 			"release_url": "http://cdn.kaeru.world/TWLoader-update/release-bootstrap.nds",
 			"unofficial_url": "http://cdn.kaeru.world/TWLoader-update/unofficial-bootstrap.nds"
 		},
