@@ -2,8 +2,8 @@
 	"GUI": {
 		"gui_cia": {		
 			"latest_major": "6",
-			"latest_minor": "6",
-			"latest_micro": "4",
+			"latest_minor": "7",
+			"latest_micro": "0",
 			"gui_url": "http://cdn.kaeru.world/TWLoader-update/TWLoader.cia"
 		},
 		"gui_3dsx": {
